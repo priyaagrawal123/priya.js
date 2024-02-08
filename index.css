@@ -1,0 +1,23 @@
+body{
+    background-color:#00b09b;
+    background: linear-gradient(#00b09b,#96c93d);
+    min-height: 100vh;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+  
+    
+}
+div{
+    background-color: aliceblue;
+}
+.text-grey{
+color: #aaa;
+}
+
+.badge-margin-left-48{
+margin-left:48px;
+}
